@@ -1,1 +1,25 @@
-Hola
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content=width=device-wicth, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Mi proyecto web</tittle>
+<meta name="description" content="Este es mi increible proyecto web">
+<meta name="keywords" content="palabras_claves, tu_nombre_del_proyecto,drupvon is amazing">
+<link href="https://fonts.googleapis.com/css?family=Roboto+Mono:300,400,700 rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body class="grandient">
+<dlv class="flex full-heigth full-width">
+<dlv class="box">
+<h1>Instalación de drush en windows</h1>
+<p>Visitanos en <a href=https://www.unad.edu.co/drupvon/" target="_blank">https://www.unad.edu.co/drupvon/<a></p>
+</div>
+</div>
+</body>
+</html>
